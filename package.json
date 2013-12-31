@@ -1,0 +1,30 @@
+{
+  "name": "co-github",
+  "version": "0.0.1",
+  "description": "co wrapper for node github api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dead-horse/co-github.git"
+  },
+  "keywords": [
+    "co",
+    "github"
+  ],
+  "author": "dead_horse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dead-horse/co-github/issues"
+  },
+  "files": ["index.js"],
+  "homepage": "https://github.com/dead-horse/co-github",
+  "dependencies": {
+    "thunkify": "0.0.1"
+  },
+  "devDependencies": {
+
+  }
+}
