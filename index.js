@@ -28,5 +28,8 @@ module.exports = function (github) {
       coApis[prop][key] = thunkify(apis[key]);
     }
   });
+  coApis.authenticate = function (options) {
+    github.authenticate(options);
+  };
   return coApis;
 };
