@@ -1,6 +1,6 @@
 {
   "name": "co-github",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "co wrapper for node github api",
   "main": "index.js",
   "scripts": {
