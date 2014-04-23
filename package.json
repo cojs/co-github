@@ -25,6 +25,6 @@
     "thunkify": "0.0.1"
   },
   "devDependencies": {
-
+    "github": "*"
   }
 }
