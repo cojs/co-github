@@ -13,7 +13,7 @@ var Github = require('github');
 var wrapper = require('co-github');
 var co = require('co');
 
-var github = wraper(new Github({
+var github = wrapper(new Github({
   version: "3.0.0",
   debug: true,
   protocol: "https",
